@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="dowload.png" width="100%">
+<img src="dowload.jpg" width="100%">
 
 # JOAO OTAVIO
 
