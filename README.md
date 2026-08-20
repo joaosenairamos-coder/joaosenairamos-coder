@@ -1,6 +1,6 @@
 <div align="center">
 
-# 💙 JOAO OTAVIO
+#  JOAO OTAVIO
 
 ### `Backend Developer` • `Student`
 
