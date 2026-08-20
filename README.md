@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000&height=180&section=header&text=JOAO%20OTAVIO&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000&height=180&section=header&text=JOAO%20OTAVIO&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%">
 
 ### `Backend Developer` • `Student`
 
@@ -47,8 +47,6 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3">
-
 ## 🛠️ Tech Stack
 
 <img src="https://skillicons.dev/icons?i=python,php,mysql,html,css,git,github,vscode,linux&theme=dark">
@@ -79,6 +77,22 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000&height=100&section=footer">
+## 🚀 Currently Learning
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000&height=100&section=footer" width="100%">
+
+### 💻 Learning • Coding • Creating
 
 </div>
