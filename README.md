@@ -15,13 +15,13 @@
 
 <td width="60%">
 
-## 👋 About Me
+##   About Me
 
 Hey! I'm **Joao Otavio.**
 
 🎂 **16 years old**  
 📚 **Systems Development student**  
-📍 **Cruzeiro, São Paulo**
+📍 **Cruzeiro, SP**
 
 I'm a student and developer in training interested in  
 **programming, backend development and technology.**
@@ -35,6 +35,7 @@ I'm currently learning and improving my skills with:
 * 🔧 Git & GitHub
 * 💻 VS Code
 * 🐧 Linux
+* 🎮 Valorant
 
 I enjoy learning new things, solving problems and turning ideas into code.
 
