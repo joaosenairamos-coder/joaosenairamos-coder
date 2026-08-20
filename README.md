@@ -6,7 +6,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&section=header" width="100%">
 
 <table>
 <tr>
@@ -43,7 +43,7 @@ I enjoy learning new things, solving problems and turning ideas into code.
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&section=header" width="100%">
 
 <div align="center">
 
@@ -53,7 +53,7 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&section=header" width="100%">
 
 <div align="center">
 
@@ -73,7 +73,7 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&section=header" width="100%">
 
 <div align="center">
 
@@ -87,7 +87,7 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&section=header" width="100%">
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=3&section=header" width="100%">
 
 <div align="center">
 
