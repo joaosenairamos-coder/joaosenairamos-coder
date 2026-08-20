@@ -136,17 +136,6 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 ✦ ───────────────────────── ✦
 
-## 📊 GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=joaosenairamos-coder&show_icons=true&theme=dark&hide_border=true">
-
-</div>
-
-<br>
-
-<div align="center">
-
-✦ ───────────────────────── ✦
 
 ### 💻 Learning • Coding • Creating
 
