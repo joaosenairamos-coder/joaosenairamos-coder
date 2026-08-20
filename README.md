@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000&height=180&section=header&text=JOAO%20OTAVIO&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000&height=180&width=1000&section=header&text=JOAO%20OTAVIO&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn">
 
 ### `Backend Developer` • `Student`
 
@@ -43,7 +43,11 @@ I enjoy learning new things, solving problems and turning ideas into code.
 </tr>
 </table>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=4&width=1000">
+
+<br>
 
 <div align="center">
 
@@ -53,7 +57,11 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=4&width=1000">
+
+<br>
 
 <div align="center">
 
@@ -73,7 +81,11 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=4&width=1000">
+
+<br>
 
 <div align="center">
 
@@ -87,11 +99,25 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 </div>
 
----
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=4&width=1000">
+
+<br>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000&height=100&section=footer" width="100%">
+## 📊 GitHub
+
+<img src="https://github-readme-stats.vercel.app/api?username=joaosenairamos-coder&show_icons=true&theme=tokyonight&hide_border=true">
+
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000&height=120&width=1000&section=footer">
+
+<div align="center">
 
 ### 💻 Learning • Coding • Creating
 
