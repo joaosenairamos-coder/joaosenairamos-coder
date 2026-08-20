@@ -36,7 +36,7 @@ I enjoy learning new things, solving problems and turning ideas into code.
 
 <td width="40%" align="center">
 
-<img src="download.jpg" width="300px">
+<img src="download.jpg" width="350px">
 
 </td>
 
